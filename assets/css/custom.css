@@ -1,0 +1,19 @@
+/* 
+    Created on : 27-ene-2018, 11:05:56
+    Author     : ralf
+*/
+body{
+    font-family: 'Roboto', sans-serif;    
+}
+body .container{
+    padding-top: 20px;
+}
+.min_width_100px{
+    min-width: 100px;
+}
+.max_height_33px{
+    max-height: 33px;
+}
+.margin_bottom30{
+    margin-bottom: 30px;
+}
